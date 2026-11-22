@@ -1,6 +1,6 @@
 ### Hi, I'm Adi 👋
 
-Composer, founder of [AGsoundtrax](https://agsoundtrax.com), modular synth nerd and photographer. I build Mac apps and tools for musicians and creators, mostly the ones I wanted for my own studio.
+Composer, soundscape designer, founder of [AGsoundtrax](https://agsoundtrax.com), modular synth nerd and photographer. I build Mac apps and tools for musicians and creators, mostly the ones I wanted for my own studio.
 
 #### 🎛 Apps for musicians
 
@@ -24,4 +24,4 @@ Composer, founder of [AGsoundtrax](https://agsoundtrax.com), modular synth nerd 
 
 #### 🔗 Find me
 
-[AdiGoldstein.com](https://adigoldstein.com) · [AGsoundtrax](https://agsoundtrax.com) · [All my socials](https://adigoldstein.com/socials)
+[AdiGoldstein.com](https://adigoldstein.com) · [AGsoundtrax](https://agsoundtrax.com) · [All my socials](https://adigoldstein.com/socials) · [My links](https://adigoldstein.promolinks.me)
