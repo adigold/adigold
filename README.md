@@ -10,6 +10,7 @@ Composer, soundscape designer, entrepreneur, founder of [AGsoundtrax](https://ag
 | [**Grid Studio**](https://github.com/adigold/GridStudio) | Turn a monome grid into a MIDI controller on macOS. Open source. |
 | [**BrightMeUp**](https://github.com/adigold/BrightMeUp) | A bright look for Logic Pro, with 32 presets. Open source. |
 | [**CST to Patch**](https://github.com/adigold/CST-Convertor) | Convert Logic Pro channel strip settings into patches. Open source. |
+| [**Promolinks.me**](https://promolinks.me) | Smart links and artist pages for musicians that send fans to Spotify, Apple Music, YouTube or podcasts, with analytics. |
 | [**AGsoundtrax MCP**](https://agsoundtrax.com/ai) | Ask Claude, ChatGPT, Cursor or Claude Code for music in your own words and search the AGsoundtrax production music library for film, TV, ads and games. |
 | [**TrackTag**](https://tracktag.me) | AI tagging for music catalogs: BPM, key, genres, moods and more. [MCP for Claude](https://github.com/adigold/tracktag-mcp). |
 | [**AG AudioFlow**](https://github.com/adigold/AG_AudioFlow_OpenSource) | Right click any audio file on your Mac to convert, normalize or trim it. Also for [Raycast](https://github.com/adigold/AG-AudioFlow-Raycast). |
