@@ -20,7 +20,7 @@ Composer, founder of [AGsoundtrax](https://agsoundtrax.com), modular synth nerd 
 | --- | --- |
 | [**AAT Tool**](https://github.com/adigold/AAT-Tool) | Pin or circle elements on your live Next.js app and get an agent ready prompt. A Claude Code skill. |
 | [**FlickerGrid**](https://flickergrid.vercel.app) | Generate animated flickering dot grid backgrounds. |
-| [**imgur Extension**](https://github.com/adigold/imgur-Extension) | Community browser extension for imgur, used by 50k+ people. |
+| [**imgur Extension**](https://github.com/adigold/imgur-Extension) | Community extension for imgur with 50k+ users. |
 
 #### 🔗 Find me
 
