@@ -1,6 +1,6 @@
 ### Hi, I'm Adi 👋
 
-Composer, soundscape designer and founder of [AGsoundtrax](https://agsoundtrax.com). I build Mac apps and tools for musicians and creators: [InPlug](https://inplug.app), [Grid Studio](https://github.com/adigold/GridStudio), [TrackTag](https://tracktag.me), [BrightMeUp](https://github.com/adigold/BrightMeUp).
+Composer, soundscape designer, entrepreneur and founder of [AGsoundtrax](https://agsoundtrax.com). I build Mac apps and tools for musicians and creators: [InPlug](https://inplug.app), [Grid Studio](https://github.com/adigold/GridStudio), [TrackTag](https://tracktag.me), [BrightMeUp](https://github.com/adigold/BrightMeUp).
 
 #### 🎛 Apps for musicians
 
